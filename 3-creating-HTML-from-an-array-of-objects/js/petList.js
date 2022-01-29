@@ -22,7 +22,7 @@ const pets = [
 const container = document.querySelector(".pet-container");
 
 
-// Create a html variable to hold our htm in it when we use the loop
+// Create a html variable to hold our html in it when we use the loop
 let html = "";
 // Loop over the array
 
