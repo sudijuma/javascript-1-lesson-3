@@ -44,7 +44,7 @@ for (let i = 0; i < pets.length; i++) {
         <p>The Mood: ${pets[i].friendly ? "yes it its friendly" : "no its not friendly"}</p>
         </div >
         `;
-    console.log(pets);
+    console.log(html);
 }
 container.innerHTML = html;
 // change the innerHTML
