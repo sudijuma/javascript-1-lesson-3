@@ -34,7 +34,7 @@ for (let i = 0; i < pets.length; i++) {
     if (pets[i].type) {
         theType = pets[i].type;
     } else {
-       console.log(theType = "unkown type");
+        console.log(theType = "unkown type");
     }
 
     html = html + `
